@@ -31,7 +31,7 @@ PROVIDER_KEYS    = {
     "🟠 Claude (Anthropic)": "claude",
 }
 MODEL_LABEL = {
-    "gemini": "🔷 Gemini 2.5 Flash",
+    "gemini": "🔷 Gemini 3.1 Flash Lite",
     "gpt":    "🟢 GPT-4o",
     "claude": "🟠 Claude Sonnet 4.6",
 }
