@@ -17,7 +17,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ─── 상수 ──────────────────────────────────────────────────────────────────────
-GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_MODEL = "gemini-3.1-flash-lite-preview"
 GPT_MODEL    = "gpt-4o"
 CLAUDE_MODEL = "claude-sonnet-4-6"
 
